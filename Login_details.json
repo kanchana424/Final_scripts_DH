@@ -1,0 +1,25 @@
+{
+	"FTP_LOGIN": {
+
+		"controller_A_IP": "10.1.25.107",
+		"controller_B_IP": "10.1.25.108",
+		"username": "manage",
+		"password": "!manage",
+		"iter": "5",
+		"Upgrade_Version": "GL220P009-15",
+		"Downgrade_Version": "GL220P008-06",
+		"PFU_count": "3"
+	},
+	"Firmware_Upgrade": {
+		"Upgrade_Version": "GL220P009-15",
+		"MC_version": "GLM220P022-01",
+		"SC_Version": "GLS220P22-01",
+		"CPLD": "560"
+	},
+	"Firmware_Downgrade": {
+		"Downgrade_Version": "GL220P008-06",
+		"MC_version": "GLM220P008-01",
+		"SC_Version": "GLS220P08-01",
+		"CPLD": "56"
+	}
+}

@@ -1,0 +1,2 @@
+09/11 18:14:37 W MC NOT TALKING   SC/MC serial com timeout
+09/11 18:14:37 W MC RESET BY SC   Mgmt Controller  reset by SC
